@@ -28,7 +28,7 @@
          "name":"Maze Layer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -46,7 +46,7 @@
                  "value":"MazeEli.tmx"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -58,7 +58,7 @@
          "name":"Plants",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -66,11 +66,11 @@
         {
          "draworder":"topdown",
          "id":5,
-         "name":"FloorLayer",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -81,7 +81,7 @@
          "name":"Flying Monsters",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
