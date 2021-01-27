@@ -50,6 +50,12 @@
          "id":8,
          "name":"Audio Ghost",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"mp3\/ghost.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":39,
