@@ -54,7 +54,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"picture\/achtung.png"
+                 "value":"https:\/\/github.com\/wak-lab-e-v\/2D-Welt-eligym\/blob\/main\/pictures\/achtung.png"
                 }],
          "type":"tilelayer",
          "visible":true,
