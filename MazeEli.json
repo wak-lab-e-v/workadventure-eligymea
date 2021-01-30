@@ -448,7 +448,7 @@
         {
          "columns":15,
          "firstgid":1065,
-         "image":"pipo-enemy010.png",
+         "image":"maze-tilesets/pipo-enemy010.png",
          "imageheight":480,
          "imagewidth":480,
          "margin":0,
