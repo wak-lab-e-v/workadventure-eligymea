@@ -90,7 +90,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"eligym-EG.json"
+                 "value":"eligym-EG.json#reentry_maze"
                 }],
          "type":"tilelayer",
          "visible":true,
