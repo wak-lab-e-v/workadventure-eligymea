@@ -29,7 +29,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"eligym-EG.json#reentry_maze"
                 }],
