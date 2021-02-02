@@ -100,7 +100,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -112,7 +112,7 @@
          "name":"Top Standard",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -194,7 +194,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -210,14 +210,9 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.elisabethgymnasium.com\/unsere-schule\/galerie\/event\/2020_Skilager.html#&gid=gallery0decda1d45898514253c7cd178783f70&pid=1634"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
