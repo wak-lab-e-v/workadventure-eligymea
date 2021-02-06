@@ -22,7 +22,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -34,7 +34,7 @@
          "name":"noWalk",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
                  "value":"wak-lab-smal.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
                  "value":"MazeEli.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -106,7 +106,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -124,7 +124,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -136,7 +136,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -148,7 +148,7 @@
          "name":"Top Standard",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -160,7 +160,7 @@
          "name":"Top Overlay",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -183,7 +183,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -206,7 +206,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -224,7 +224,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/laby_01.jpg"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -242,7 +242,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/Info_01.jpg"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -257,7 +257,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.elisabethgymnasium.com\/unsere-schule\/galerie\/event\/2020_Skilager.html#&gid=gallery0decda1d45898514253c7cd178783f70&pid=1634"
+                 "value":"https:\/\/youtu.be\/0xkXV7R3Ck4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -278,7 +278,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/unsere-schule\/fachbereiche\/naturwissenschaften\/informatik.html"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -296,7 +296,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/images\/\/2D_Welt\/sani_01.jpg"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -319,7 +319,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -331,7 +331,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -342,7 +342,7 @@
          "name":"LightAndShadow",
          "opacity":0.4,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -360,7 +360,7 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
