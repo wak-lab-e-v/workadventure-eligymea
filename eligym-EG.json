@@ -780,15 +780,15 @@
          "tilewidth":32
         }, 
         {
-         "columns":10,
+         "columns":15,
          "firstgid":4481,
          "image":"Letters.png",
          "imageheight":384,
-         "imagewidth":320,
+         "imagewidth":480,
          "margin":0,
          "name":"Letters",
          "spacing":0,
-         "tilecount":120,
+         "tilecount":180,
          "tileheight":32,
          "tilewidth":32
         }],
