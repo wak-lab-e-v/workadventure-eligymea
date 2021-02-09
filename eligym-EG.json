@@ -778,6 +778,19 @@
          "tilecount":1024,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":4481,
+         "image":"Letters.png",
+         "imageheight":384,
+         "imagewidth":320,
+         "margin":0,
+         "name":"Letters",
+         "spacing":0,
+         "tilecount":120,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
