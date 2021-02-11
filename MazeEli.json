@@ -186,7 +186,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"mp3\/grusel_1.mp3"
+                 "value":"mp3\/ghosts_lp.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
