@@ -316,7 +316,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"videos\/musik_02.mp4"
+                 "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/musik_02.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
