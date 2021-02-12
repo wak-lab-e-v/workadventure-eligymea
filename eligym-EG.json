@@ -360,7 +360,7 @@
                 {
                  "name":"PlayAudio",
                  "type":"string",
-                 "value":"mp3\/begruessung.mp3"
+                 "value":"mp3\/begruessung_1.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
