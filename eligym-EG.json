@@ -358,7 +358,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"PlayAudio",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"mp3\/begruessung_1.mp3"
                 }],
