@@ -22,7 +22,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -34,7 +34,7 @@
          "name":"noWalk",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/musikraum_01.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
                  "value":"wak-lab-smal.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -106,7 +106,7 @@
                  "value":"MazeEli.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -124,7 +124,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -142,7 +142,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -166,7 +166,7 @@
          "name":"Top Standard",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -178,7 +178,7 @@
          "name":"Top Overlay",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -196,7 +196,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/unsere-schule\/schulgeschichte.html"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -219,7 +219,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -237,7 +237,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/laby_01.jpg"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -255,7 +255,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/Info_01.jpg"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -273,7 +273,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/dickmann_1.mp4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -288,7 +288,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/youtu.be\/-vYqb5VHjTA"
+                 "value":"https:\/\/www.youtube.com\/embed\/-vYqb5VHjTA"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -309,7 +309,7 @@
                  "value":"https:\/\/www.youtube.com\/watch?v=noNScFq0oSI"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -327,7 +327,7 @@
                  "value":"https:\/\/elisabethgymnasium.com\/images\/2018_19_Schuljahr\/Videos\/2019_03_Disco_01_k.mp4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -345,7 +345,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/musik_02.mp4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -363,7 +363,7 @@
                  "value":"mp3\/begruessung_1.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -381,7 +381,7 @@
                  "value":"https:\/\/elisabethgymnasium.com\/images\/20_21_Schuljahr\/Downloads\/Teilnahmeerklaerung_Essensversorgung.pdf"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -399,7 +399,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/images\/20_21_Schuljahr\/Downloads\/flyer_schulpsychologischer_dienst_web.pdf"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -417,7 +417,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/karte_01.jpg"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -435,7 +435,7 @@
                  "value":"https:\/\/pads.ccc.de\/m3Af94v6rn"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -453,7 +453,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/menschen\/foerderverein.html"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -471,7 +471,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/images\/20_21_Schuljahr\/Downloads\/Anmeldeformular.pdf"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -489,7 +489,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/videokonferenz_hinweis1.jpg"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -507,7 +507,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/unsere-schule\/fachbereiche\/naturwissenschaften\/informatik.html"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -525,7 +525,7 @@
                  "value":"https:\/\/elisabethgymnasium.com\/unsere-schule\/galerie\/event\/dhge-girls-2017.html#&gid=gallery73f402ab526e93b58daac754319c49bb&pid=16"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -543,7 +543,7 @@
                  "value":"https:\/\/elisabethgymnasium.com\/unsere-schule\/galerie\/event\/Sportfest2018.html#&gid=galleryee823baac23d3e10f8bd2a0dc4a38e4a&pid=438"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -561,7 +561,7 @@
                  "value":"https:\/\/elisabethgymnasium.com\/unsere-schule\/galerie\/event\/2019_06_8F2_Theater.html#&gid=gallery287babee67ca9de8b08943e3f170e5c8&pid=1258"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -579,7 +579,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/kunst1.jpg"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -597,7 +597,7 @@
                  "value":"https:\/\/elisabethgymnasium.com\/unsere-schule\/galerie\/event\/2018_09_21_Herbstfest.html#&gid=gallery0d8a7dd62f1a54abef8907645ccd5ba9&pid=736"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -615,7 +615,7 @@
                  "value":"https:\/\/elisabethgymnasium.com\/unsere-schule\/galerie\/event\/2017_11_07_NAWI.html#&gid=gallery907de05010bf6210da723cdb2341a732&pid=8"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -633,7 +633,7 @@
                  "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/sani_01.jpg"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -651,7 +651,7 @@
                  "value":"https:\/\/elisabethgymnasium.com\/fuer-grundschueler\/willkommen.html"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -669,7 +669,7 @@
                  "value":"https:\/\/elisabethgymnasium.com\/fuer-grundschueler\/willkommen.html"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -681,7 +681,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -692,7 +692,7 @@
          "name":"LightAndShadow",
          "opacity":0.4,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -710,7 +710,7 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
