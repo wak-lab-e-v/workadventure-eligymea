@@ -34,7 +34,7 @@
          "name":"noWalk",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -450,10 +450,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pads.ccc.de\/m3Af94v6rn"
+                 "value":"pictures\/baustelle.jpg"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
