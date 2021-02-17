@@ -666,7 +666,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/kunst1.jpg"
+                 "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/kunst.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
