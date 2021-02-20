@@ -880,9 +880,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openPicture",
+                 "name":"openWebseite",
                  "type":"string",
-                 "value":"pictures\/ssa1.jpg"
+                 "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/ssa1.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -900,7 +900,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"pictures\/ssa2.jpg"
+                 "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/ssa2.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
