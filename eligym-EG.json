@@ -880,7 +880,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebseite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/ssa1.jpg"
                 }],
