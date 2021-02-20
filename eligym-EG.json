@@ -880,7 +880,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openPicture",
                  "type":"string",
                  "value":"pictures\/ssa1.jpg"
                 }],
