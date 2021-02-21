@@ -543,7 +543,7 @@
                  "value":"https:\/\/elisabethgymnasium.com\/images\/beitraege\/TDOT_2021_5LF_10.png"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -1080,10 +1080,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/elisabethgymnasium.com\/fuer-grundschueler\/willkommen.html"
+                 "value":"https:\/\/www.youtube.com\/embed\/3oSRldWGDRk"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
