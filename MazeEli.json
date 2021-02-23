@@ -85,6 +85,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.wak-lab.org\/files\/2021\/02\/wood-shield_maze-start.jpg"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
