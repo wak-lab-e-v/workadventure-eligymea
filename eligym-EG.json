@@ -612,7 +612,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/karte_01.jpg"
+                 "value":"https:\/\/www.elisabethgymnasium.com\/images\/2D_Welt\/karte_02.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
